@@ -1,0 +1,30 @@
+﻿@model SisClientes.Models.Cliente
+
+@{
+    ViewBag.Title = "Cadastrar";
+}
+
+<h2>Cadastrar</h2>
+
+@using (Html.BeginForm())
+{
+    <div class="form-group">
+        @Html.LabelFor(x => x.Nome)
+        @Html.TextBoxFor(x=> x.Nome, new { @class="form-control" })
+        @Html.ValidationMessageFor( x => x.Nome )
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(x => x.Email)
+        @Html.TextBoxFor(x => x.Email, new { @class = "form-control" })
+        @Html.ValidationMessageFor(x => x.Email )
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(x => x.CPF)
+        @Html.TextBoxFor(x => x.CPF, new { @class = "form-control" })
+        @Html.ValidationMessageFor(x => x.CPF )
+    </div>
+    <button type="submit" class="btn btn-success">Salvar </button>
+}
+
+
