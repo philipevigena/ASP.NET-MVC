@@ -28,8 +28,7 @@ C:\projetos\SisClientes\SisClientes\bin\System.Web.Webpages.Deployment.xml
 C:\projetos\SisClientes\SisClientes\bin\System.Web.Webpages.Razor.xml
 C:\projetos\SisClientes\SisClientes\bin\System.Web.Helpers.xml
 C:\projetos\SisClientes\SisClientes\bin\System.Web.Mvc.xml
-C:\projetos\SisClientes\SisClientes\obj\Debug\SisClientes.csprojResolveAssemblyReference.cache
-C:\projetos\SisClientes\SisClientes\obj\Debug\SisClientes.dll
-C:\projetos\SisClientes\SisClientes\obj\Debug\SisClientes.pdb
 C:\projetos\SisClientes\SisClientes\obj\Debug\SisClientes.Resources.ValidationsMessages.resources
 C:\projetos\SisClientes\SisClientes\obj\Debug\SisClientes.csproj.GenerateResource.Cache
+C:\projetos\SisClientes\SisClientes\obj\Debug\SisClientes.dll
+C:\projetos\SisClientes\SisClientes\obj\Debug\SisClientes.pdb
